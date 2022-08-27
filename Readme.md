@@ -1,6 +1,6 @@
 # Project 6:
 
-[Live link](http://127.0.0.1:5500/index.html)
+[Live link](https://dancing-griffin-3eae65.netlify.app)
 
 ## Name:Vaishnavi Jaju
 
