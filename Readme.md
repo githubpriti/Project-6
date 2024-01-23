@@ -1,6 +1,6 @@
 # Project 6:
 
-[Live link](https://project-6-monstera.vercel.app/)
+[Live link](https://project-6-five.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
