@@ -1,6 +1,6 @@
 # Project 6:
 
-[Live link](https://dancing-griffin-3eae65.netlify.app)
+[Live link](https://project-6-monstera.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
